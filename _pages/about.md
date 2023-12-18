@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications
 - [Arxiv]Jintang Li, Jiawang Dan, Ruofan Wu, **Jing Zhou**, Sheng Tian, Yunfei Liu, Baokun Wang, Changhua Meng, Weiqiang Wang, Yuchang Zhu, Liang Chen, Zibin Zheng. LasTGL: An Industrial Framework for Large-Scale Temporal Graph Learning. [PDF](https://arxiv.org/pdf/2311.16605.pdf)
 - [Arxiv]Jintang Li, Zheng Wei, Jiawang Dan, **Jing Zhou**, Yuchang Zhu, Ruofan Wu, Baokun Wang, Zhang Zhen, Changhua Meng, Hong Jin, Zibin Zheng, Liang Chen. HeteroNet: Heterophily-aware Representation Learning on Heterogenerous Graphs. [PDF](https://arxiv.org/pdf/2310.11664.pdf)
-s
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
